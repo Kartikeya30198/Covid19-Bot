@@ -28,4 +28,4 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 6.Custom domains to provide branded customizations to your app.
 
 
-Project Link :  
+Project Link :  https://covidvirtualbot.z13.web.core.windows.net/
