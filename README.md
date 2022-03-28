@@ -30,4 +30,14 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 Project Link :  https://covidvirtualbot.z13.web.core.windows.net/
 
-![5](https://user-images.githubusercontent.com/93187282/160320658-8165f630-7e12-408b-84bb-58b265e8a022.png)
+Sample images of the project : 
+
+![1](https://user-images.githubusercontent.com/93187282/160320774-0d9ddfe7-5946-4e99-bd8d-a4af9b742648.png)
+
+![2](https://user-images.githubusercontent.com/93187282/160320795-5255f709-1b87-4e3a-92b6-9ff22050e0d2.png)
+
+![3](https://user-images.githubusercontent.com/93187282/160320813-1856f57c-4c40-4b00-a0c8-63d518ff7f18.png)
+
+![4](https://user-images.githubusercontent.com/93187282/160320831-1c53669e-be52-467a-b72c-939a1520658a.png)
+
+![5](https://user-images.githubusercontent.com/93187282/160320842-111afc11-167b-4535-827b-a0d0fc57c131.png)
